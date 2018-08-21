@@ -34,3 +34,18 @@ Latihan 10
 <br>
 Latihan 11
 ![alt text](https://github.com/Mohammadfani123/Fani/blob/master/Jobsheet1/Latihan11.JPG)
+<br>
+
+# Jobsheet 1 Lanjutan
+
+Latihan 1
+![alt text](https://github.com/Mohammadfani123/Fani/blob/master/Jobsheet1Lanjutan/Latihan1.JPG)
+<br>
+Latihan 2
+![alt text](https://github.com/Mohammadfani123/Fani/blob/master/Jobsheet1Lanjutan/Latihan2.JPG)
+<br>
+Latihan 3
+![alt text](https://github.com/Mohammadfani123/Fani/blob/master/Jobsheet1Lanjutan/Latihan3.JPG)
+<br>
+Latihan 4
+![alt text](https://github.com/Mohammadfani123/Fani/blob/master/Jobsheet1Lanjutan/Latihan4.JPG)
